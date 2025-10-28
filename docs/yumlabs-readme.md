@@ -271,7 +271,7 @@ This project is licensed under the MIT License.
 
 **YUMLABS Team** - [yumlabs.team@gmail.com]
 
-Project Link: [dotZeroSlash](https://github.com/dotZeroSlash)
+Project Link: [CodingInCarhartts](https://github.com/CodingInCarhartts)
 
 ---
 

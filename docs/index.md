@@ -13,7 +13,7 @@ hero:
       link: /home
     - theme: alt
       text: View on GitHub
-      link: https://github.com/dotZeroSlash
+      link: https://github.com/CodingInCarhartts
 
 features:
   - title: Markdown Files

@@ -57,7 +57,7 @@ cargo install cargo-mix
 
 **From Source:**
 ```bash
-git clone https://github.com/dotZeroSlash/cargo-mix
+git clone https://github.com/CodingInCarhartts/cargo-mix
 cd cargo-mix
 cargo install --path .
 ```
@@ -191,7 +191,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 <div align="center">
   <p>Built with ❤️ by the Rust community</p>
   <p>
-    <a href="https://github.com/dotZeroSlash/cargo-mix/issues">Report Bug</a> •
-    <a href="https://github.com/dotZeroSlash/cargo-mix/issues">Request Feature</a>
+    <a href="https://github.com/CodingInCarhartts/cargo-mix/issues">Report Bug</a> •
+    <a href="https://github.com/CodingInCarhartts/cargo-mix/issues">Request Feature</a>
   </p>
 </div>

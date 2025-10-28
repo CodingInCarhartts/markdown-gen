@@ -126,7 +126,7 @@ export default {
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/dotZeroSlash' }
+      { icon: 'github', link: 'https://github.com/CodingInCarhartts' }
     ]
   }
 }
